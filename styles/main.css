@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-basis: 50%;
+}
+
+#box1 {
+    border: 2px solid blue;
+}
+
+#box2 {
+    border: 2px solid red;
+}
